@@ -1,8 +1,29 @@
+# 新疆连锁品牌 (xinjiang-chain-brand)
+
+> 新疆特色连锁品牌创业项目 · 配套 AI 工具指南网站
+
+## 技术栈
+
+- **框架：** Next.js 14 (App Router, 静态导出)
+- **UI：** React 18 + TailwindCSS
+- **语言：** TypeScript
+- **部署：** GitHub Pages
+
+## 快速开始
+
+```bash
+npm install
+npm run dev      # 开发模式 http://localhost:3000
+npm run build    # 静态构建输出到 out/
+```
+
+---
+
 # 新疆连锁品牌商业计划书
 
 ## 项目概述
 
-**项目名称：** 新疆特色连锁品牌（待定）  
+**项目名称：** 新疆特色连锁品牌（待定）
 **启动资金：** 20万元人民币  
 **目标市场：** 新疆地区 + 内地一二线城市  
 **业务模式：** 连锁经营  
